@@ -1,4 +1,4 @@
-# **mobile-or-tablet** • [**Documentation**](https://github.com/idimetrix/mobile-or-tablet/blob/main/docs/classes/ProDate.md)
+# **mobile-or-tablet**
 
 Determines if the device is either a mobile phone or a tablet.
 

@@ -1,6 +1,6 @@
 {
   "name": "mobile-or-tablet",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Determines if the device is either a mobile phone or a tablet.",
   "license": "MIT",
   "author": {
